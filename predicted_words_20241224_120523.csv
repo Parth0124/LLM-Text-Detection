@@ -1,0 +1,120 @@
+Original Word,Predicted Word,Is Match,Top 5 Predictions
+the,",",False,",(1.0000) | .(1.0000) | -(1.0000) |  the(1.0000) |  and(1.0000)"
+quiet, middle,False, middle(1.0000) |  same(1.0000) |  past(1.0000) |  world(1.0000) |  early(1.0000)
+solitude, of,False," of(1.0000) | ,(1.0000) | est(1.0000) |  and(1.0000) | .(1.0000)"
+of, of,False," of(1.0000) | ,(1.0000) | .(1.0000) |  that(1.0000) |  and(1.0000)"
+the, the,False, the(1.0000) |  a(1.0000) |  his(1.0000) |  her(1.0000) |  an(1.0000)
+evening, forest,False, forest(1.0000) |  city(1.0000) |  woods(1.0000) |  desert(1.0000) |  mountains(1.0000)
+",",",",True,",(1.0000) | .(1.0000) |  and(1.0000) |  in(1.0000) |  sun(1.0000)"
+as, and,False," and(1.0000) |  the(1.0000) |  where(1.0000) | 
+(1.0000) |  I(1.0000)"
+the, if,False, if(1.0000) |  the(1.0000) |  he(1.0000) |  she(1.0000) |  I(1.0000)
+last, sun,False, sun(1.0000) |  wind(1.0000) |  moon(1.0000) |  night(1.0000) |  light(1.0000)
+rays, of,False, of(1.0000) |  rays(1.0000) |  few(1.0000) |  thing(1.0000) |  words(1.0000)
+of, of,False, of(1.0000) |  from(1.0000) |  were(1.0000) |  and(1.0000) |  passed(1.0000)
+the, the,False, the(1.0000) |  sunlight(1.0000) |  light(1.0000) |  dawn(1.0000) |  sunshine(1.0000)
+sun, sun,False, sun(1.0000) |  moon(1.0000) |  morning(1.0000) |  dawn(1.0000) |  night(1.0000)
+dipped, shine,False, shine(1.0000) |  shone(1.0000) |  were(1.0000) |  came(1.0000) |  set(1.0000)
+below, into,False, into(1.0000) |  in(1.0000) |  down(1.0000) |  over(1.0000) |  through(1.0000)
+the, the,False," the(1.0000) |  his(1.0000) | .(1.0000) | ,(1.0000) |  her(1.0000)"
+horizon, horizon,False, horizon(1.0000) |  clouds(1.0000) |  sky(1.0000) |  surface(1.0000) |  earth(1.0000)
+",",.,False,".(1.0000) | ,(1.0000) |  and(1.0000) |  .(1.0000) |  ,(1.0000)"
+the, and,False," and(1.0000) |  the(1.0000) |  as(1.0000) | 
+(1.0000) |  in(1.0000)"
+world, sun,False, sun(1.0000) |  last(1.0000) |  light(1.0000) |  wind(1.0000) |  moon(1.0000)
+seemed, was,False, was(1.0000) |  of(1.0000) |  seemed(1.0000) |  began(1.0000) |  became(1.0000)
+to, to,False, to(1.0000) |  like(1.0000) |  as(1.0000) |  a(1.0000) |  more(1.0000)
+slow, be,False, be(1.0000) |  have(1.0000) |  fade(1.0000) |  vanish(1.0000) |  glow(1.0000)
+",", down,False," down(1.0000) |  to(1.0000) |  and(1.0000) | ,(1.0000) |  in(1.0000)"
+giving, and,False, and(1.0000) |  as(1.0000) |  the(1.0000) |  like(1.0000) |  to(1.0000)
+way, way,False, way(1.0000) |  a(1.0000) |  the(1.0000) |  in(1.0000) |  off(1.0000)
+to, to,False," to(1.0000) |  and(1.0000) | ,(1.0000) |  as(1.0000) |  in(1.0000)"
+a, a,False, a(1.0000) |  the(1.0000) |  darkness(1.0000) |  an(1.0000) |  silence(1.0000)
+sense, new,False, new(1.0000) |  quiet(1.0000) |  world(1.0000) |  dark(1.0000) |  cold(1.0000)
+of, of,False, of(1.0000) |  that(1.0000) | less(1.0000) |  like(1.0000) |  in(1.0000)
+peace, calm,False, calm(1.0000) |  quiet(1.0000) |  silence(1.0000) |  emptiness(1.0000) |  darkness(1.0000)
+that, and,False," and(1.0000) |  .(1.0000) | .(1.0000) |  ,(1.0000) | ,(1.0000)"
+had, was,False, was(1.0000) |  seemed(1.0000) |  had(1.0000) |  would(1.0000) |  could(1.0000)
+been, been,False, been(1.0000) |  never(1.0000) |  not(1.0000) |  no(1.0000) |  long(1.0000)
+absent, lost,False, lost(1.0000) |  absent(1.0000) |  broken(1.0000) |  so(1.0000) |  missing(1.0000)
+throughout, for,False, for(1.0000) |  from(1.0000) |  in(1.0000) |  before(1.0000) |  since(1.0000)
+the, the,False, the(1.0000) |  all(1.0000) |  her(1.0000) |  his(1.0000) | .(1.0000)
+day, whole,False, whole(1.0000) |  night(1.0000) |  entire(1.0000) |  day(1.0000) |  years(1.0000)
+., .,False," .(1.0000) | .(1.0000) |  ,(1.0000) |  and(1.0000) | ,(1.0000)"
+the,"
+",False,"
+(1.0000) |  .(1.0000) |  The(1.0000) |  ""(1.0000) |  But(1.0000)"
+soft, sun,False, sun(1.0000) |  world(1.0000) |  silence(1.0000) |  night(1.0000) |  last(1.0000)
+rustling,ness,False,"ness(1.0000) | ,(1.0000) |  and(1.0000) |  sound(1.0000) |  silence(1.0000)"
+of, of,False, of(1.0000) |  and(1.0000) |  in(1.0000) |  on(1.0000) |  that(1.0000)
+leaves, the,False, the(1.0000) |  a(1.0000) |  leaves(1.0000) |  birds(1.0000) |  wood(1.0000)
+in, and,False," and(1.0000) |  in(1.0000) |  on(1.0000) | ,(1.0000) |  ,(1.0000)"
+the, the,False, the(1.0000) |  a(1.0000) |  trees(1.0000) |  autumn(1.0000) |  spring(1.0000)
+breeze, trees,False, trees(1.0000) |  wind(1.0000) |  garden(1.0000) |  grass(1.0000) |  morning(1.0000)
+and," ,",False," ,(1.0000) |  .(1.0000) |  and(1.0000) |  was(1.0000) |  of(1.0000)"
+the, the,False, the(1.0000) |  a(1.0000) |  of(1.0000) |  rust(1.0000) |  soft(1.0000)
+distant, soft,False, soft(1.0000) |  rust(1.0000) |  gentle(1.0000) |  faint(1.0000) |  sound(1.0000)
+chirping, sounds,False, sounds(1.0000) |  rust(1.0000) |  sound(1.0000) |  cl(1.0000) |  th(1.0000)
+of, of,False, of(1.0000) |  sounds(1.0000) |  and(1.0000) |  from(1.0000) |  in(1.0000)
+crickets, birds,False, birds(1.0000) |  the(1.0000) |  a(1.0000) |  distant(1.0000) |  children(1.0000)
+were, in,False," in(1.0000) |  and(1.0000) |  .(1.0000) |  that(1.0000) |  ,(1.0000)"
+the, all,False, all(1.0000) |  the(1.0000) |  a(1.0000) |  as(1.0000) |  familiar(1.0000)
+only, sounds,False, sounds(1.0000) |  only(1.0000) |  last(1.0000) |  quiet(1.0000) |  first(1.0000)
+sounds, sounds,False, sounds(1.0000) |  things(1.0000) |  sound(1.0000) |  signs(1.0000) |  noises(1.0000)
+that, that,False, that(1.0000) |  of(1.0000) |  in(1.0000) |  to(1.0000) |  I(1.0000)
+filled, came,False, came(1.0000) |  could(1.0000) |  were(1.0000) |  had(1.0000) |  seemed(1.0000)
+the, the,False, the(1.0000) |  my(1.0000) |  me(1.0000) |  this(1.0000) |  his(1.0000)
+air, room,False, room(1.0000) |  air(1.0000) |  night(1.0000) |  house(1.0000) |  quiet(1.0000)
+",", .,False," .(1.0000) | .(1.0000) | ,(1.0000) |  of(1.0000) |  as(1.0000)"
+creating, and,False, and(1.0000) |  as(1.0000) |  the(1.0000) |  but(1.0000) |  like(1.0000)
+a, a,False, a(1.0000) |  the(1.0000) |  an(1.0000) |  quiet(1.0000) |  something(1.0000)
+symphony, sense,False, sense(1.0000) |  quiet(1.0000) |  feeling(1.0000) |  calm(1.0000) |  deep(1.0000)
+of, of,False, of(1.0000) |  that(1.0000) |  to(1.0000) |  in(1.0000) |  as(1.0000)
+tranquility, sounds,False, sounds(1.0000) |  quiet(1.0000) |  silence(1.0000) |  sound(1.0000) |  the(1.0000)
+., and,False," and(1.0000) |  .(1.0000) |  that(1.0000) |  in(1.0000) |  ,(1.0000)"
+it, the,False," the(1.0000) | 
+(1.0000) |  The(1.0000) |  .(1.0000) |  a(1.0000)"
+was, was,False, was(1.0000) |  seemed(1.0000) |  had(1.0000) |  felt(1.0000) |  took(1.0000)
+in, a,False, a(1.0000) |  as(1.0000) |  the(1.0000) |  only(1.0000) |  not(1.0000)
+these, this,False, this(1.0000) |  the(1.0000) |  that(1.0000) |  these(1.0000) |  a(1.0000)
+fleeting, quiet,False, quiet(1.0000) |  moments(1.0000) |  silent(1.0000) |  few(1.0000) |  sounds(1.0000)
+moments, moments,False," moments(1.0000) |  glimps(1.0000) |  sounds(1.0000) | ,(1.0000) |  quiet(1.0000)"
+",", that,False," that(1.0000) |  of(1.0000) |  ,(1.0000) | ,(1.0000) |  when(1.0000)"
+between, that,False, that(1.0000) |  the(1.0000) |  when(1.0000) |  as(1.0000) |  and(1.0000)
+the, the,False, the(1.0000) |  these(1.0000) |  those(1.0000) |  all(1.0000) |  them(1.0000)
+fading, quiet,False, quiet(1.0000) |  silence(1.0000) |  sounds(1.0000) |  distant(1.0000) |  two(1.0000)
+light, of,False, of(1.0000) |  light(1.0000) |  lights(1.0000) |  and(1.0000) |  rays(1.0000)
+and, of,False," of(1.0000) |  and(1.0000) |  that(1.0000) |  ,(1.0000) |  from(1.0000)"
+the, the,False, the(1.0000) |  those(1.0000) |  its(1.0000) |  a(1.0000) |  that(1.0000)
+onset, fading,False, fading(1.0000) |  distant(1.0000) |  bright(1.0000) |  light(1.0000) |  rising(1.0000)
+of, of,False," of(1.0000) |  and(1.0000) | ,(1.0000) |  that(1.0000) |  ,(1.0000)"
+darkness, the,False, the(1.0000) |  a(1.0000) |  darkness(1.0000) |  dawn(1.0000) |  twilight(1.0000)
+","," ,",False," ,(1.0000) |  that(1.0000) | ,(1.0000) |  and(1.0000) |  .(1.0000)"
+that, that,False, that(1.0000) |  when(1.0000) |  the(1.0000) |  where(1.0000) |  and(1.0000)
+one, the,False, the(1.0000) |  I(1.0000) |  we(1.0000) |  a(1.0000) |  one(1.0000)
+could, could,False, could(1.0000) |  felt(1.0000) |  of(1.0000) |  would(1.0000) |  might(1.0000)
+feel, feel,False, feel(1.0000) |  hear(1.0000) |  see(1.0000) |  begin(1.0000) |  not(1.0000)
+a, the,False, the(1.0000) |  that(1.0000) |  a(1.0000) |  one(1.0000) |  an(1.0000)
+deep, sense,False, sense(1.0000) |  deep(1.0000) |  calm(1.0000) |  faint(1.0000) |  feeling(1.0000)
+connection, sense,False," sense(1.0000) | ,(1.0000) |  and(1.0000) |  connection(1.0000) |  sadness(1.0000)"
+to, to,False, to(1.0000) |  with(1.0000) |  between(1.0000) |  that(1.0000) |  and(1.0000)
+the, the,False, the(1.0000) |  God(1.0000) |  a(1.0000) |  one(1.0000) |  nature(1.0000)
+rhythm, world,False, world(1.0000) |  past(1.0000) |  universe(1.0000) |  spirit(1.0000) |  earth(1.0000)
+of, of,False," of(1.0000) |  and(1.0000) |  that(1.0000) |  ,(1.0000) | ical(1.0000)"
+nature, the,False, the(1.0000) |  life(1.0000) |  this(1.0000) |  nature(1.0000) |  a(1.0000)
+",", .,False," .(1.0000) |  ,(1.0000) |  and(1.0000) |  that(1.0000) | .(1.0000)"
+reminding, and,False, and(1.0000) |  to(1.0000) |  the(1.0000) |  a(1.0000) |  that(1.0000)
+them, one,False, one(1.0000) |  us(1.0000) |  the(1.0000) |  me(1.0000) |  of(1.0000)
+of, of,False, of(1.0000) |  that(1.0000) |  to(1.0000) |  how(1.0000) |  not(1.0000)
+the, the,False, the(1.0000) |  their(1.0000) |  a(1.0000) |  its(1.0000) |  what(1.0000)
+simple, beauty,False, beauty(1.0000) |  timeless(1.0000) |  way(1.0000) |  time(1.0000) |  quiet(1.0000)
+beauty, fact,False," fact(1.0000) |  beauty(1.0000) | ,(1.0000) |  and(1.0000) |  rhythm(1.0000)"
+that, of,False, of(1.0000) |  and(1.0000) |  that(1.0000) |  in(1.0000) |  they(1.0000)
+exists, was,False, was(1.0000) |  had(1.0000) |  they(1.0000) |  is(1.0000) |  the(1.0000)
+when, in,False, in(1.0000) |  within(1.0000) |  between(1.0000) |  on(1.0000) |  at(1.0000)
+the, the,False, the(1.0000) |  we(1.0000) |  nature(1.0000) |  one(1.0000) |  there(1.0000)
+world, light,False, light(1.0000) |  sun(1.0000) |  world(1.0000) |  earth(1.0000) |  sky(1.0000)
+pauses, is,False, is(1.0000) |  itself(1.0000) |  around(1.0000) |  moves(1.0000) |  of(1.0000)
+to, and,False, and(1.0000) |  to(1.0000) |  for(1.0000) |  in(1.0000) |  .(1.0000)
+breathe, let,False, let(1.0000) |  rest(1.0000) |  allow(1.0000) |  breathe(1.0000) |  consider(1.0000)
+., .,False," .(1.0000) |  and(1.0000) | .(1.0000) |  in(1.0000) |  ,(1.0000)"

@@ -7,3 +7,4 @@ seaborn
 torch
 ipykernel
 nltk
+huggingface_hub

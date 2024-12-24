@@ -1,0 +1,288 @@
+{
+  "predictions": [
+    {
+      "original": "analysis",
+      "predicted": "footballer",
+      "probability": 0.3143574893474579,
+      "is_match": false,
+      "top_5_predictions": [
+        {
+          "token": "footballer",
+          "probability": 0.3143574893474579
+        },
+        {
+          "token": "fan",
+          "probability": 0.18712320923805237
+        },
+        {
+          "token": "gamer",
+          "probability": 0.07051003724336624
+        },
+        {
+          "token": "professional",
+          "probability": 0.04171120375394821
+        },
+        {
+          "token": "player",
+          "probability": 0.016798069700598717
+        }
+      ]
+    },
+    {
+      "original": "a",
+      "predicted": "barcelona",
+      "probability": 0.586611807346344,
+      "is_match": false,
+      "top_5_predictions": [
+        {
+          "token": "barcelona",
+          "probability": 0.586611807346344
+        },
+        {
+          "token": "racing",
+          "probability": 0.06692761927843094
+        },
+        {
+          "token": "ferrari",
+          "probability": 0.027291418984532356
+        },
+        {
+          "token": "valencia",
+          "probability": 0.01470161136239767
+        },
+        {
+          "token": "roma",
+          "probability": 0.014433207921683788
+        }
+      ]
+    },
+    {
+      "original": ".",
+      "predicted": "the",
+      "probability": 0.9680109024047852,
+      "is_match": false,
+      "top_5_predictions": [
+        {
+          "token": "the",
+          "probability": 0.9680109024047852
+        },
+        {
+          "token": "a",
+          "probability": 0.013239898718893528
+        },
+        {
+          "token": "right",
+          "probability": 0.002864443464204669
+        },
+        {
+          "token": "every",
+          "probability": 0.0006759471143595874
+        },
+        {
+          "token": "left",
+          "probability": 0.000633556570392102
+        }
+      ]
+    },
+    {
+      "original": "prediction",
+      "predicted": ".",
+      "probability": 0.9192098379135132,
+      "is_match": false,
+      "top_5_predictions": [
+        {
+          "token": ".",
+          "probability": 0.9192098379135132
+        },
+        {
+          "token": "and",
+          "probability": 0.059794358909130096
+        },
+        {
+          "token": ",",
+          "probability": 0.006193412933498621
+        },
+        {
+          "token": "but",
+          "probability": 0.002713589696213603
+        },
+        {
+          "token": "so",
+          "probability": 0.002358119236305356
+        }
+      ]
+    },
+    {
+      "original": "ur",
+      "predicted": ",",
+      "probability": 0.5958080291748047,
+      "is_match": false,
+      "top_5_predictions": [
+        {
+          "token": ",",
+          "probability": 0.5958080291748047
+        },
+        {
+          "token": "and",
+          "probability": 0.2328927218914032
+        },
+        {
+          "token": ".",
+          "probability": 0.06816454231739044
+        },
+        {
+          "token": "##s",
+          "probability": 0.021674497053027153
+        },
+        {
+          "token": "with",
+          "probability": 0.0058253672905266285
+        }
+      ]
+    },
+    {
+      "original": "mercedes",
+      "predicted": ",",
+      "probability": 0.05906226113438606,
+      "is_match": false,
+      "top_5_predictions": [
+        {
+          "token": ",",
+          "probability": 0.05906226113438606
+        },
+        {
+          "token": "search",
+          "probability": 0.05292002484202385
+        },
+        {
+          "token": "system",
+          "probability": 0.018194982782006264
+        },
+        {
+          "token": "app",
+          "probability": 0.01727134734392166
+        },
+        {
+          "token": ".",
+          "probability": 0.013520851731300354
+        }
+      ]
+    },
+    {
+      "original": "and",
+      "predicted": "##r",
+      "probability": 0.04238254204392433,
+      "is_match": false,
+      "top_5_predictions": [
+        {
+          "token": "##r",
+          "probability": 0.04238254204392433
+        },
+        {
+          "token": "##e",
+          "probability": 0.037836331874132156
+        },
+        {
+          "token": "##d",
+          "probability": 0.035077352076768875
+        },
+        {
+          "token": "##s",
+          "probability": 0.03206372261047363
+        },
+        {
+          "token": "##g",
+          "probability": 0.031136633828282356
+        }
+      ]
+    },
+    {
+      "original": "boy",
+      "predicted": "for",
+      "probability": 0.9642474055290222,
+      "is_match": false,
+      "top_5_predictions": [
+        {
+          "token": "for",
+          "probability": 0.9642474055290222
+        },
+        {
+          "token": "in",
+          "probability": 0.004578274674713612
+        },
+        {
+          "token": "out",
+          "probability": 0.0045017641969025135
+        },
+        {
+          "token": "my",
+          "probability": 0.0025612940080463886
+        },
+        {
+          "token": "through",
+          "probability": 0.0023773564025759697
+        }
+      ]
+    },
+    {
+      "original": "holidays",
+      "predicted": "a",
+      "probability": 0.03149755671620369,
+      "is_match": false,
+      "top_5_predictions": [
+        {
+          "token": "a",
+          "probability": 0.03149755671620369
+        },
+        {
+          "token": "u",
+          "probability": 0.02872905507683754
+        },
+        {
+          "token": "e",
+          "probability": 0.0252841729670763
+        },
+        {
+          "token": "ing",
+          "probability": 0.023300359025597572
+        },
+        {
+          "token": "com",
+          "probability": 0.022306738421320915
+        }
+      ]
+    },
+    {
+      "original": "for",
+      "predicted": "job",
+      "probability": 0.16343550384044647,
+      "is_match": false,
+      "top_5_predictions": [
+        {
+          "token": "job",
+          "probability": 0.16343550384044647
+        },
+        {
+          "token": "jobs",
+          "probability": 0.12201756238937378
+        },
+        {
+          "token": "program",
+          "probability": 0.05086555331945419
+        },
+        {
+          "token": "internship",
+          "probability": 0.03338546305894852
+        },
+        {
+          "token": "time",
+          "probability": 0.02993510104715824
+        }
+      ]
+    }
+  ],
+  "accuracy": 0.0,
+  "is_llm_generated": false,
+  "marked_text": "[CLS] my name is part ##h . i am a [MASK] . i love to watch football and formula 1 . my favourite team is real madrid in football and [MASK] in formula 1 . i play at [MASK] center forward position in football [MASK] i love vo ##ding . i have built many projects . some of them are house marketplace [MASK] gi ##th ##ub find ##er along wit im ##db sentiment [MASK] and chu ##rn [MASK] . i am learning genera ##tive ai . i am searching [MASK] internship ##s to work in dr = [MASK] ##ing the summer [MASK] . [SEP]",
+  "original_text": "My name is Parth. I am a boy. I love to watch football and formula 1. My favourite team is Real Madrid in football and Mercedes in Formula 1. I play at a center forward position in football. I love voding. I have built many projects. Some of them are House marketplace and Github finder along wit IMDB sentiment analysis and Churn prediction. I am learning generative ai. I am searching for internships to work in dr=uring the summer holidays."
+}

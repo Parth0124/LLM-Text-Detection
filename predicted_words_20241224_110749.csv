@@ -1,0 +1,11 @@
+Original Word,Predicted Word,Probability,Is Match,Top 5 Predictions
+sentiment,love,0.160,False,love(0.160) | the(0.018) | like(0.011) | play(0.009) | best(0.008)
+learning,real,0.258,False,real(0.258) | team(0.075) | atletico(0.063) | club(0.031) | football(0.029)
+internships,real,0.361,False,real(0.361) | atletico(0.116) | team(0.067) | football(0.037) | club(0.035)
+house,-,0.476,False,-(0.476) | of(0.123) | and(0.039) | /(0.028) | field(0.026)
+real,love,0.058,False,love(0.058) | the(0.036) | internet(0.023) | online(0.020) | web(0.016)
+team,.,0.533,False,".(0.533) | for(0.036) | and(0.028) | ,(0.018) | of(0.014)"
+name,.,0.069,False,.(0.069) | and(0.045) | for(0.026) | data(0.021) | in(0.014)
+imdb,data,0.026,False,data(0.026) | and(0.023) | problem(0.012) | network(0.011) | system(0.009)
+forward,use,0.043,False,use(0.043) | create(0.022) | used(0.016) | a(0.016) | build(0.015)
+along,to,0.278,False,to(0.278) | for(0.209) | .(0.060) | and(0.058) | at(0.028)

@@ -1,0 +1,11 @@
+Original Word,Predicted Word,Probability,Is Match,Top 5 Predictions
+Formula,i,1.000,False,i(1.000) | 1(0.000) | he(0.000) | ii(0.000) | my(0.000)
+Churn,play,0.966,False,play(0.966) | watch(0.006) | learn(0.004) | do(0.002) | go(0.001)
+and,.,0.977,False,".(0.977) | ,(0.004) | and(0.003) | one(0.003) | 1(0.002)"
+projects.,and,0.911,False,"and(0.911) | ,(0.048) | or(0.020) | .(0.009) | but(0.002)"
+House,ligue,0.407,False,ligue(0.407) | formula(0.399) | liga(0.093) | division(0.038) | football(0.018)
+and,i,0.998,False,i(0.998) | we(0.000) | they(0.000) | also(0.000) | my(0.000)
+1.,.,0.613,False,".(0.613) | and(0.059) | software(0.050) | ,(0.050) | apps(0.026)"
+I,like,0.172,False,like(0.172) | a(0.061) | the(0.048) | google(0.037) | :(0.026)
+I,and,0.927,False,"and(0.927) | ,(0.031) | for(0.007) | &(0.006) | or(0.005)"
+watch,trend,0.067,False,trend(0.067) | and(0.026) | weather(0.020) | search(0.016) | content(0.015)
